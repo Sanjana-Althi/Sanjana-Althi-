@@ -10,6 +10,7 @@
 - 📫 How to reach me **sanjualthi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p><h4>Username: Sanjana Althi</h4></p>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjana-althi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjana-althi" height="30" width="40" /></a>
 </p>
