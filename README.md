@@ -1,23 +1,80 @@
-<h1 align="center">Hi 👋, I'm Sanjana Althi</h1>
-<h3 align="center">A BTech CSE student passionate about Artificial intelligence and web designing</h3>
+<h1 align="center">Hi there 👋, I'm Sanjana Althi</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjana-althi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjana-althi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjana-althi" alt="sanjana-althi" /></a> </p>
-
-- 🌱 I’m currently learning **CSS,Java and Python**
-
-- 📫 How to reach me **sanjualthi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p><h4>Username: Sanjana Althi</h4></p>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjana-althi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjana-althi" height="30" width="40" /></a>
+<p align="center">
+  <i>3rd Year B.Tech CSE Student | Aspiring Developer | Open Source Enthusiast</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr>
+<h3>🎯 Career Objective:</h3>
+<p>
+  A passionate and dedicated Computer Science Engineering student aiming to leverage practical knowledge of programming, data analysis, and web development to contribute effectively in real-world projects. Eager to explore innovative technologies, enhance problem-solving skills, and build impactful solutions while continuously learning and growing in the tech field.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjana-althi&show_icons=true&locale=en&layout=compact" alt="sanjana-althi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjana-althi&show_icons=true&locale=en" alt="sanjana-althi" /></p>
+<hr>
+
+<h3>💻 Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://www.cprogramming.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/></a>
+  <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" width="100" height="40"/></a>
+  <a href="https://www.microsoft.com/en-in/microsoft-365" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-office-2019.png" alt="MS Office" width="40" height="40"/></a>
+</p>
+
+<hr>
+
+<h3>🚀 Projects:</h3>
+<ul>
+  <li>
+    <b>Potato Leaf Disease Detection</b> <br>
+    <i>AI Intern | TechSaksham (Microsoft & SAP) | Remote | Duration: 4 Weeks</i><br>
+    Developed a machine learning model to detect potato leaf disease from images. Designed a user-friendly interface using Streamlit to allow image uploads and classify leaves as “Healthy” or “Infected”.
+  </li>
+  <br>
+  <li>
+    <b>Steganography-based Secure Messaging Tool</b> <br>
+    <i>Cybersecurity Intern | Edunet Foundation (IBM SkillsBuild) | Remote | Duration: 6 Weeks</i><br>
+    Worked on a cybersecurity project using LSB steganography to hide sensitive information in images. Built an encryption-decryption tool using Python, applying XOR logic and integrated it with a simple frontend.
+  </li>
+  <br>
+  <li>
+    <b>CuddleNest BabySitter Web</b> <br>
+    Currently building a full-fledged baby care website named CuddleNest with frontend design in progress and integration with a secure messaging steganography tool for parents' communication.
+  </li>
+  <br>
+  <li>
+    <b>Power BI Dashboards</b> <br>
+    Created interactive dashboards using Power BI for visualizing academic and personal datasets with insightful metrics.
+  </li>
+</ul>
+
+<hr>
+<hr>
+
+<h3>📫 How to reach me:</h3>
+<ul>
+  <li>Email: <a href="mailto:sanjualthi@gmail.com">sanjualthi@gmail.com</a></li>
+  <li>GitHub: <a href="https://github.com/Sanjana-Althi">Sanjana-Althi</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/sanjana-althi/">Sanjana Althi</a></li>
+</ul>
+
+<hr>
+
+<h3>📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-Althi&show_icons=true&theme=radical" alt="Sanjana's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Althi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<hr>
+
+<p align="center">
+  <i>“Building one project at a time, learning every step of the way.”</i>
+</p>
