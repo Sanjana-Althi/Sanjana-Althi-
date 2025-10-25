@@ -58,7 +58,7 @@
 
 <h3>📫 How to reach me:</h3>
 <ul>
-  <li>Email: <a href="mailto:sanjualthi@gmail.com">sanjualthi@gmail.com</a></li>
+  <li>Email: <a href="mailto:sanjana.althi357@gmail.com">sanjualthi@gmail.com</a></li>
   <li>GitHub: <a href="https://github.com/Sanjana-Althi">Sanjana-Althi</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/sanjana-althi/">Sanjana Althi</a></li>
 </ul>
